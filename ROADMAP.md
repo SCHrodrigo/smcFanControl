@@ -8,7 +8,7 @@ _Refreshed September 23, 2026. Plans, not promises: priorities can shift with us
   - Replace deprecated privileged-execution fallback with one reviewed, deterministic helper installation path; add daemon install/status/uninstall diagnostics.
   - Add exportable diagnostics: Mac model, macOS/OCLP versions, fan count/current/min/max RPM, daemon status, and recent helper logs, with privacy-safe defaults.
   - Regression tests for AC/battery changes, sleep/wake, multi-fan sync, boot daemon settings sync, and no-fan exit.
-  - Translation work remains community/native-speaker only. Issue #13 should be updated to reflect completed Swedish/Turkish/Simplified Chinese/Korean/Hungarian contributions and list only languages still needing review. Do not fabricate translations.
+  - Translations: thanks to contributors, Swedish, Turkish, Simplified Chinese, Korean, and Hungarian have landed. More languages come from native speakers only; see issue #13 if you can help.
 - Next after 2.8: model database updates and a user-submitted hardware compatibility matrix.
 
 Feature requests and bug reports: https://github.com/wolffcatskyy/smcFanControl/issues
